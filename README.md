@@ -3,7 +3,7 @@
 
 
 <figure>
-<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Script&lines=Alan" width=100%/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Script&lines=Azor" width=100%/>
 <img align="right" src="https://count.getloli.com/get/@:Alan28755?theme=rule34" width=100%>
 </figure>
 
