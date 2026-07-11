@@ -9,10 +9,6 @@
 
 
 
-### **技术栈:**
-
-unity
-
 ### Github 活跃度
 
 ![Azor287's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Azor287&show_icons=true&theme=radical)
