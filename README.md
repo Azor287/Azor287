@@ -15,6 +15,6 @@ unity
 
 ### Github 活跃度
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alan28755&show_icons=true&theme=radical)
+![Azor287's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Azor287&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan28755&langs_count=6)
+![Azor287's Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Azor287&langs_count=6&layout=compact&theme=radical)
